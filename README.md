@@ -9,9 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nemanjastanic&count_private=true&show_icons=true&hide=stars,issues&theme=github_dark&hide_border=true" alt="Nemanja's GitHub Stats" />
 </div>
 
-<div align="center">
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 ![](https://hit.yhype.me/github/profile?user_id=105949556)
