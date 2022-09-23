@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemanjastanic&" alt="nemanjastanic" /></p>
 
-- 👨‍💻 All of my projects are available at [https://d-one.design](https://d-one.design)
+- 👨‍💻 All of my projects are available at [d-one](https://d-one.design)
 
 - 📫 How to reach me **nemanja@d-one.design**
 
