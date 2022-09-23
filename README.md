@@ -63,10 +63,42 @@
         height="40"
       />
     </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://reactnative.dev/img/header_logo.svg"
-        alt="reactnative"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        alt="redux"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+        alt="graphql"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        alt="express"
         width="40"
         height="40"
       />
@@ -91,42 +123,18 @@
         height="40"
       />
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
         width="40"
         height="40"
       />
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-        alt="nuxtjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-        alt="graphql"
+        src="https://reactnative.dev/img/header_logo.svg"
+        alt="reactnative"
         width="40"
         height="40"
       />
@@ -299,6 +307,14 @@
         height="40"
       />
     </a>
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+        alt="nuxtjs"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -423,26 +439,10 @@
         height="40"
       />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
         alt="redis"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-        alt="redux"
         width="40"
         height="40"
       />
