@@ -16,9 +16,9 @@
     />
   </p>
 
-  <p>👨‍💻 All of my projects are available at [d-one](https://d-one.design)</p>
+  👨‍💻 All of my projects are available at [d-one](https://d-one.design)
 
-  <p>📫 You can reach me at **nemanja@d-one.design**</p>
+  📫 You can reach me at **nemanja@d-one.design**
 
   <h3>Connect with me:</h3>
   <p>
