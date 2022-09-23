@@ -11,7 +11,6 @@
 
   <p>
     <img
-     
       src="https://github-readme-streak-stats.herokuapp.com/?user=nemanjastanic&"
       alt="nemanjastanic"
     />
@@ -24,7 +23,6 @@
   <p>
     <a href="https://twitter.com/nemanjastaniic" target="blank"
       ><img
-       
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
         alt="nemanjastaniic"
         height="30"
@@ -32,7 +30,6 @@
     /></a>
     <a href="https://linkedin.com/in/nemanjastanic" target="blank"
       ><img
-       
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="nemanjastanic"
         height="30"
@@ -40,7 +37,6 @@
     /></a>
     <a href="https://instagram.com/nemanjastaniic" target="blank"
       ><img
-       
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="nemanjastaniic"
         height="30"
