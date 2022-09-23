@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [d-one](https://d-one.design)
 
-- 📫 How to reach me **nemanja@d-one.design**
+- 📫 You can reach me at **nemanja@d-one.design**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
