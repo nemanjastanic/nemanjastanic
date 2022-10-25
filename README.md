@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Nemanja</h1>
-  <h3>I create cool projects with d-one.</h3>
+  <h3>I'm the co-founder of d-one.</h3>
 
   <p>
     <img
@@ -9,7 +9,7 @@
     />
   </p>
 
-  👨‍💻 All of my projects are available at [d-one](https://d-one.design)
+  👨‍💻 All of our projects are available at [d-one](https://d-one.design)
 
   📫 You can reach me at **nemanja@d-one.design**
 
