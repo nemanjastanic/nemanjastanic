@@ -9,27 +9,27 @@
     />
   </p>
 
-  👨‍💻 All of our projects are available at <a href="https://d-one.design" target="blank">d-one</a>
+  👨‍💻 All of our projects are available at <a href="https://d-one.design" target="_blank">d-one</a>
 
   📫 You can reach me at **nemanja@d-one.design**
 
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://linkedin.com/in/nemanjastanic" target="blank"
+    <a href="https://linkedin.com/in/nemanjastanic" target="_blank"
       ><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="nemanjastanic"
         height="30"
         width="40"
     /></a>
-    <a href="https://instagram.com/nemanjastaniic" target="blank"
+    <a href="https://instagram.com/nemanjastaniic" target="_blank"
       ><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="nemanjastaniic"
         height="30"
         width="40"
     /></a>
-    <a href="https://twitter.com/nemanjastaniic" target="blank"
+    <a href="https://twitter.com/nemanjastaniic" target="_blank"
       ><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
         alt="nemanjastaniic"
