@@ -9,7 +9,7 @@
     />
   </p>
 
-  👨‍💻 All of our projects are available at [d-one](https://d-one.design)
+  👨‍💻 All of our projects are available at <a href="https://d-one.design" target="blank">d-one</a>
 
   📫 You can reach me at **nemanja@d-one.design**
 
