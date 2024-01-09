@@ -3,9 +3,7 @@
   <h3>I'm the co-founder of d-one.</h3>
 
   <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=nemanjastanic&theme=github-dark-blue&hide_border=true&background=FFFFFF00&stroke=FFFFFF00" alt="GitHub Streak" />
-    </a>
+    <img src="https://streak-stats.demolab.com?user=nemanjastanic&theme=github-dark-blue&hide_border=true&background=FFFFFF00&stroke=FFFFFF00" alt="GitHub Streak" />
   </p>
 
   👨‍💻 All of our projects are available at <a href="https://d-one.design" target="_blank">d-one</a>
