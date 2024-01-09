@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=nemanjastanic&theme=transparent&hide_border=true&stroke=FFFFFF00" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=nemanjastanic&theme=violet-dark&hide_border=true&background=FFFFFF00&stroke=FFFFFF00" alt="GitHub Streak" />
     </a>
   </p>
 
