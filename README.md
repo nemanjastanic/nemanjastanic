@@ -3,10 +3,9 @@
   <h3>I'm the co-founder of d-one.</h3>
 
   <p>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=nemanjastanic&"
-      alt="nemanjastanic"
-    />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=nemanjastanic&theme=highcontrast" alt="GitHub Streak" />
+    </a>
   </p>
 
   👨‍💻 All of our projects are available at <a href="https://d-one.design" target="_blank">d-one</a>
