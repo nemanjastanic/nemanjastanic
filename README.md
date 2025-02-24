@@ -1,5 +1,5 @@
 <div valign="center" align="center">
-  <br><br>
+  <br>
   <samp>
     Hey! I'm Ryuu.
     <br>
