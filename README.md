@@ -5,6 +5,5 @@
     <br>
     A software engineer and founder of <a href="https://d-one.studio">d-one</a>.
   </samp>
-  <br><br><br><br>
-  <img src="https://cdn.purr.gg/8DfNz0vs4yRy.png" />
+  <br><br>
 </div>
